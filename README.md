@@ -1,2 +1,6 @@
 # hello-world
-https://guides.github.com/activities/hello-world/
+
+
+Hello World!
+
+Initial edits to this readme file.
